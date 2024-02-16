@@ -1,0 +1,3 @@
+compatible: "seeed,grove-multichannel-gas-v2"
+
+include: [sensor-device.yaml, i2c-device.yaml]
